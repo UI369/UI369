@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UI369
+- 👀 I’m interested in DAOs, UI Design, Self-management
+- 🌱 I’m currently learning Godot Game Engine, Self-management philosophy
+- 💞️ I’m looking to collaborate on purpose-driven orgs & web3 games
+- 📫 How to reach me UI369x@gmail.com twitter:@UI_369
