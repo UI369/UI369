@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UI369. www.twitter.com/@UI_369
-- I work to channel Universal Intelligence through human organizations. 
-- 👀 I’m interested in DAOs, UI Design and Self-management
+- 👀 I’m interested in DAOs, Game Design and Business Development
 - 🌱 I’m currently learning Finite State Machines, Javascript & 3.js
-- 💞️ I’m looking to collaborate on purpose-driven orgs & web3 games. Currently contributing at DAOhaus twitter.com/@nowdaoit.
-- 📫 How to reach me UI369x@gmail.com twitter:@UI_369
+- 💞️ I’m looking to collaborate on purpose-driven orgs & web3 games. 
+- 🏠 Currently contributing at DAOhaus twitter.com/@nowdaoit.
+- 📫 How to reach me UI369x@gmail.com twitter:https://www.twitter.com/UI_369
